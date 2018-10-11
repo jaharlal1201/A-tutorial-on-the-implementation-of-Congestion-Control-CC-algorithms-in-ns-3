@@ -1,3 +1,5 @@
 # A-tutorial-on-the-implementation-of-Congestion-Control-CC-algorithms-in-ns-3
 Week 1 :
 Studying about Congestion Control Algorithms
+Week 2 :
+Learning to use Latex 
